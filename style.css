@@ -1,0 +1,41 @@
+*{
+    font-family: 'montserrat';
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background: linear-gradient(to right , blue , black , rgb(9, 9, 58));
+    color: #fff;
+}
+
+#nms h1{
+    font-size: 4em;
+    margin-top: 125px;
+}
+
+#nms p{
+    margin-bottom: 30px;
+    margin-top: 8px;
+}
+
+#categories a{
+    font-size: 2.3em;
+    text-decoration: none;
+    padding: 15px;
+    border-radius: 10px;
+    background: white;
+    color: blue;
+    font-weight: 800;
+    transition: 0.7s ease;
+}
+
+#categories a:hover{
+    color: black;
+    font-size: 3em;
+}
+
+
+h2{
+    margin-top: 50px;
+    padding: 35px;
+    background: blue;
+}
