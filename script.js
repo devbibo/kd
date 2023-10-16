@@ -22,6 +22,18 @@ const ideas = {
         "Aug",
         "Jana",
         "Sengab"
+	],
+        cat3: [
+        "Bibo",
+        "Maiden",
+        "Willow",
+        "Majd",
+        "Madara",
+        "Hadra",
+        "Rania",
+        "Aug",
+        "Jana",
+        "Sengab"
 	]
 	
 };
