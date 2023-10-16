@@ -8,7 +8,8 @@ const ideas = {
         "Hadra",
         "Rania",
         "Aug",
-        "Jana"
+        "Jana",
+        "Sengab"
 	],
 	cat2: [
         "Bibo",
@@ -19,7 +20,8 @@ const ideas = {
         "Hadra",
         "Rania",
         "Aug",
-        "Jana"
+        "Jana",
+        "Sengab"
 	]
 	
 };
