@@ -23,7 +23,7 @@ const ideas = {
         "Rania",
         "Aug",
         "Jana",
-        "Sengab"
+        "Sengab",
 	"Audry",
 	"Zain"
 	],
@@ -37,10 +37,10 @@ const ideas = {
         "Rania",
         "Aug",
         "Jana",
-        "Sengab"
+        "Sengab",
 	"Audry",
 	"Zain"
-	]
+	],
 	
 };
 
