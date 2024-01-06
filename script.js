@@ -10,8 +10,8 @@ const ideas = {
         "Aug",
         "Jana",
         "Sengab",
-		"Audry",
-		"Zain"
+        "Audry",
+	"Zain"
 	],
 	cat2: [
         "Bibo",
@@ -24,8 +24,8 @@ const ideas = {
         "Aug",
         "Jana",
         "Sengab"
-			"Audry",
-		"Zain"
+	"Audry",
+	"Zain"
 	],
         cat3: [
         "Bibo",
@@ -38,8 +38,8 @@ const ideas = {
         "Aug",
         "Jana",
         "Sengab"
-			"Audry",
-		"Zain"
+	"Audry",
+	"Zain"
 	]
 	
 };
